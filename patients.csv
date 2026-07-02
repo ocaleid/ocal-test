@@ -1,0 +1,4 @@
+ID,Name,Age,Phone,Symptoms
+5594,Ahmed,44,059874411,MS,[]
+6312,Mahmoud,87,0566332244,SCI,[]
+7513,Sara,26,0599668877,GSA,[{'date': '22-06-2026', 'doctor': 'Dr Adhm', 'note': 'Use Medicine in RX', 'advice': 'Paracetamol'}]

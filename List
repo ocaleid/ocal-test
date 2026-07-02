@@ -1,0 +1,15 @@
+def surname(names_list):
+    for i in range(len(names_list)):
+        family=input(f"Enter a surname for {names_list[i]}: ")
+        names_list[i] += " " + family
+
+
+def print_names(names_list):
+    for j in names_list:
+        print(j)
+
+
+names_list = ["Eid", "Ahmed", "Mohammed"]
+surname(names_list)
+print_names(names_list)
+
